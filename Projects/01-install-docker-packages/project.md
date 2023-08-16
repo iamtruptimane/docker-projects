@@ -1,4 +1,4 @@
-## How to install docker-ce on linux?  
+## How to install docker engine on linux?  
 ### Step1: Set up the repository  
 ```bash 
 sudo yum install -y yum-utils
